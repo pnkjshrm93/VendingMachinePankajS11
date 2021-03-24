@@ -1,0 +1,7 @@
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineApp\bin\Debug\VendingMachineApp.exe.config
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineApp\bin\Debug\VendingMachineApp.exe
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineApp\bin\Debug\VendingMachineApp.pdb
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineApp\obj\Debug\VendingMachineApp.csprojAssemblyReference.cache
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineApp\obj\Debug\VendingMachineApp.csproj.CoreCompileInputs.cache
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineApp\obj\Debug\VendingMachineApp.exe
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineApp\obj\Debug\VendingMachineApp.pdb

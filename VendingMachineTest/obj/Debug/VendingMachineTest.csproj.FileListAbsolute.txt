@@ -1,0 +1,17 @@
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\VendingMachineTest.dll
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\VendingMachineTest.pdb
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\VendingMachineApp.exe
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\VendingMachineApp.pdb
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\VendingMachineApp.exe.config
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\obj\Debug\VendingMachineTest.csprojAssemblyReference.cache
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\obj\Debug\VendingMachineTest.csproj.CoreCompileInputs.cache
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\obj\Debug\VendingMachineTest.csproj.CopyComplete
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\obj\Debug\VendingMachineTest.dll
+C:\Users\trainingvdi\source\repos\PankajS\VendingMachineApp\VendingMachineTest\obj\Debug\VendingMachineTest.pdb
